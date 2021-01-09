@@ -3,5 +3,5 @@
 Application that change background color after tap on the screen
 
 ## Main page
-![](images/1Screen.png =250*300)
+![](images/1Screen.png =250x500)
 
