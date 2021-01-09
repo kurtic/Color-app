@@ -2,6 +2,6 @@
 
 Application that change background color after tap on the screen
 
-## Main page
-![](./images/1Screen.png){ width=50% height=50% } ![](images/2Screen.png)
+### Main page
+![reg1](./images/1Screen.png)![reg2](images/2Screen.png)
 
