@@ -1,6 +1,6 @@
 # Color_app
 
-Application that change background color after tap on the screen
+Application that changes background color after tap on the screen
 
 ## Main page
 <img src="./images/1Screen.png" width="400">
